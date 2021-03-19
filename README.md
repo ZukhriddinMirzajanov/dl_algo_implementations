@@ -1,1 +1,1 @@
-# fullstack
+deep learning algorithms implementation
